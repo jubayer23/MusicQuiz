@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music Quiz</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="coin_solve_level">100</string>
+    <string name="coin_remove_letters">50</string>
+    <string name="coin_show_single_letter">15</string>
+</resources>
